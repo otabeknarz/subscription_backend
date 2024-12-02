@@ -1,0 +1,7 @@
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+.env
+media/*
